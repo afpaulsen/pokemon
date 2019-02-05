@@ -12,11 +12,17 @@ Documentation should not make room for discussions, since this is part of an int
 
 # Endpoints for the API
 [GET] /api/searchtype/{Type}
+
 [GET] /api/listmulttype/
+
 [GET] /api/listalllegendary/
+
 [GET] /api/searchname/{Name}
+
 [GET] /api/listheaders/
+
 [GET] /api/searchheader/{Header}/{Value}
+
 [GET] /api/battle/{PokemonAName}/{PokemonBName}
 
 # The Battle System
